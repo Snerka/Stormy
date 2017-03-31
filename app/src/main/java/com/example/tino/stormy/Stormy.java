@@ -22,6 +22,9 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 public class Stormy extends AppCompatActivity {
+    ////////////////////////////////////////////////////////////////
+    // TKO OVO CITA USPJESNO JE PULLAO                          ////
+    ////////////////////////////////////////////////////////////////
 
     public static final String TAG = Stormy.class.getSimpleName();
 
